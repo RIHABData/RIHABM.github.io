@@ -52,7 +52,7 @@ Links to reach me (LinkedIn, email, GitHub).
 ---
 
 ## 🚀 Live Portfolio  
-👉 **Portfolio Link: https://rihabdata.github.io/RIHABM.github.io/
+👉 **Portfolio Link **: https://rihabdata.github.io/RIHABM.github.io/
 
 ---
 
