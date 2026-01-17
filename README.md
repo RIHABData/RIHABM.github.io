@@ -13,29 +13,7 @@ A clean introduction to who I am, what I am passionate about, and my mission in 
 ### 👤 About  
 My journey, motivation, academic experience, and long-term goals in AI and Machine Learning.
 
-### 🧠 Skills  
-Core technical skills, including:
-- Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning (Supervised & Unsupervised)
-- Data Analysis & Visualization
-- NLP  
-- SQL  
-- TensorFlow / PyTorch (if applicable)
 
-### 🎓 Certifications  
-A list of my relevant certifications in:
-- Data Science & Machine Learning  
-- Python programming  
-- Analytics  
-- Cloud fundamentals (if any)
-
-### 📁 Projects  
-A showcase of my Data Science work, such as:
-- Machine Learning classification/regression models  
-- Data analysis case studies  
-- NLP projects  
-- Simulations & job tasks  
-Each project includes descriptions and the tools used.
 
 ### 📬 Connect  
 Links to reach me (LinkedIn, email, GitHub).
