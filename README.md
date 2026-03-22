@@ -1,7 +1,9 @@
-# 📊 Data Science Portfolio — Rihab Morafiq
+# 📊 Data Analyse Portfolio — RIHAB MORAFIQ
 
-Welcome to my personal Data Science portfolio!  
-This website highlights my academic background, technical skills, certifications, and the data science projects I have developed.
+Welcome to my personal data portfolio 👋
+This website showcases my journey in Data Science and Business Intelligence, highlighting my academic background, technical skills, certifications, and hands-on projects.
+
+Through real-world datasets and analytical case studies, I demonstrate my ability to transform raw data into meaningful insights, interactive dashboards, and data-driven solutions that support decision-making.
 
 ---
 
@@ -22,9 +24,10 @@ Links to reach me (LinkedIn, email, GitHub).
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL  
-- **ML Tools:** Pandas, NumPy, Scikit-learn, TensorFlow / PyTorch  
-- **Data Visualization:** Matplotlib, Seaborn  
+- **Languages:** Python
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Databases:** MySQL
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Tools:** Kaggle, Jupyter Notebook, Git, GitHub  
 
 ---
