@@ -1,4 +1,4 @@
-# 📊 Data Analyse Portfolio — RIHAB MORAFIQ
+# 📊 Data Analysis Portfolio — RIHAB MORAFIQ
 
 Welcome to my personal data portfolio 👋
 This website showcases my journey in Data Science and Business Intelligence, highlighting my academic background, technical skills, certifications, and hands-on projects.
